@@ -1,0 +1,12 @@
+{
+  "name": "comunicacao_inclusiva",
+  "version": "1.0.0",
+  "description": "Port of Comunicaçao Inclusiva (Python/Tk) to Node.js + Web frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

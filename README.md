@@ -1,5 +1,3 @@
-# Comunicacao
-Projeto de Libra
 # 🤟 Comunicação Inclusiva — Mudos e Surdos
 
 Ferramenta **local** que une três modos de comunicação acessível:
